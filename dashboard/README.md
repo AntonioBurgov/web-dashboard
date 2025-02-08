@@ -1,3 +1,17 @@
+NOTE!; PLEASE TO START THE APPLICATION FIRST START THE DATABASE WITH THE COMMAND: mysql -u root -p ON BASH TERMINAL
+AFTER THAT PLEASE NAVIGATE TO DASHBOARD FOLDER WITH : cd dashboard AND USE COMMAND php artisan serve TO START THE SERVER.
+HELP YOU ENJOY MY WORK
+!!! I KNOW I NEED TO SEND THE CODE WITH PACKAJE SON BUT I WANT TO MAKE SURE EVERYTHING IS GOOD!
+THANK YOU IN ADVANCE!
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
